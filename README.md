@@ -3,19 +3,19 @@
 
 [EN]
 
-# # Install the required packages:
+## Install the required packages:
 pip install -r requirements.txt
-# # Run the main Python file:
+## Run the main Python file:
 python main.py
 
-# # Don't forget to add photos to the "data" folder!
+## Don't forget to add photos to the "data" folder!
 
 
 [TR]
 
-# # Gerekli paketleri yükleyin:
+## Gerekli paketleri yükleyin:
 pip install -r requirements.txt
-# # Ana Python dosyasını çalıştırın:
+## Ana Python dosyasını çalıştırın:
 python main.py
 
-# # "data" klasörüne fotoğraf eklemeyi unutmayın!
+## "data" klasörüne fotoğraf eklemeyi unutmayın!
